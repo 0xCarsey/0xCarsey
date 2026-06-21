@@ -4,7 +4,7 @@
 <div align="center">
 
 ```
-who am I? → Bellannie — Web3 founder
+Who am I? → Bellannie — Web3 founder
 ```
 
 <br/>
