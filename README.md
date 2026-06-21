@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @0xCarsey
-- 👀 I’m interested in projects seeking graphic designers, mods, community manager.
-- 🌱 I’m currently learning arts
-- 💞️ I’m looking to collaborate on graphics designs,  social media internship.
-- 📫 How to reach me https://x.com/0xcarsey
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm always active 
+<!-- bellannie github profile readme -->
+<!-- paste this into your README.md -->
 
-<!---
-0xCarsey/0xCarsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+```
+$ whoami → Bellannie — Web3 founder
+```
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=00FFAA&center=true&width=480&lines=prediction+market+trader;CDP+stablecoin+builder;crypto+KOL+%C2%B7+%40Bellannieth;solo+founder+%C2%B7+shipping+daily;Polymarket+Power+Tools+%C2%B7+Aug+2026)
+
+<br/>
+
+**building**
+
+`BEDROCK` · `Apex Hub` · `Polymarket Power Tools` · `JarvX`
+
+**stack**
+
+`Node.js` `Vertex AI` `Cloud Run` `Firestore` `LayerZero OFT`
+
+<br/>
+
+```
+↳ prediction markets // DeFi // content infrastructure
+```
+
+</div>
